@@ -1,0 +1,11 @@
+body,
+html {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.homepage_bg {
+  background-image: url(../src/assets/Images/bghome.svg);
+}
